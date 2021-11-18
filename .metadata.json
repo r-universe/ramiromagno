@@ -1,6 +1,19 @@
 [
   {
+    "package": "gwasrapidd"
+  },
+  {
+    "package": "quincunx",
+    "oncran": true
+  },
+  {
     "package": "wig",
     "oncran": true
+  },
+  {
+    "package": "ensemblr"
+  },
+  {
+    "package": "geisha"
   }
 ]

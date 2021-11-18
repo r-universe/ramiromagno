@@ -1,10 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ramiromagno/universe
 	shallow = true
 	branch = HEAD
+[submodule "gwasrapidd"]
+	path = gwasrapidd
+	url = https://github.com/ramiromagno/gwasrapidd
+	shallow = true
+	registered = true
+[submodule "quincunx"]
+	path = quincunx
+	url = https://github.com/maialab/quincunx
+	shallow = true
+	registered = true
 [submodule "wig"]
 	path = wig
 	url = https://github.com/ramiromagno/wig
+	shallow = true
+	registered = true
+[submodule "ensemblr"]
+	path = ensemblr
+	url = https://github.com/maialab/ensemblr
+	shallow = true
+	registered = true
+[submodule "geisha"]
+	path = geisha
+	url = https://github.com/ramiromagno/geisha
 	shallow = true
 	registered = true
