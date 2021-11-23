@@ -1,6 +1,7 @@
 [
   {
-    "package": "gwasrapidd"
+    "package": "gwasrapidd",
+    "oncran": false
   },
   {
     "package": "quincunx",
