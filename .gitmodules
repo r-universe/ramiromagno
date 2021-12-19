@@ -28,3 +28,8 @@
 	url = https://github.com/ramiromagno/geisha
 	shallow = true
 	registered = true
+[submodule "grantham"]
+	path = grantham
+	url = https://github.com/maialab/grantham
+	shallow = true
+	registered = true
