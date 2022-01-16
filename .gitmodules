@@ -33,3 +33,8 @@
 	url = https://github.com/maialab/grantham
 	shallow = true
 	registered = true
+[submodule "agvgd"]
+	path = agvgd
+	url = https://github.com/maialab/agvgd
+	shallow = true
+	registered = true

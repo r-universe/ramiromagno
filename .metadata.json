@@ -20,5 +20,8 @@
   {
     "package": "grantham",
     "oncran": true
+  },
+  {
+    "package": "agvgd"
   }
 ]
