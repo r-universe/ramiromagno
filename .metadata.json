@@ -22,6 +22,7 @@
     "oncran": true
   },
   {
-    "package": "agvgd"
+    "package": "agvgd",
+    "oncran": false
   }
 ]
