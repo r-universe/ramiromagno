@@ -1,40 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ramiromagno/universe
-	shallow = true
 	branch = HEAD
-[submodule "gwasrapidd"]
-	path = gwasrapidd
-	url = https://github.com/ramiromagno/gwasrapidd
-	shallow = true
-	registered = true
-[submodule "quincunx"]
-	path = quincunx
-	url = https://github.com/maialab/quincunx
-	shallow = true
-	registered = true
-[submodule "wig"]
-	path = wig
-	url = https://github.com/ramiromagno/wig
-	shallow = true
-	registered = true
-[submodule "ensemblr"]
-	path = ensemblr
-	url = https://github.com/maialab/ensemblr
-	shallow = true
-	registered = true
-[submodule "geisha"]
-	path = geisha
-	url = https://github.com/ramiromagno/geisha
-	shallow = true
-	registered = true
-[submodule "grantham"]
-	path = grantham
-	url = https://github.com/maialab/grantham
-	shallow = true
-	registered = true
 [submodule "agvgd"]
 	path = agvgd
 	url = https://github.com/maialab/agvgd
-	shallow = true
-	registered = true
+[submodule "ensemblr"]
+	path = ensemblr
+	url = https://github.com/maialab/ensemblr
+[submodule "geisha"]
+	path = geisha
+	url = https://github.com/ramiromagno/geisha
+[submodule "grantham"]
+	path = grantham
+	url = https://github.com/maialab/grantham
+[submodule "gwasrapidd"]
+	path = gwasrapidd
+	url = https://github.com/ramiromagno/gwasrapidd
+[submodule "protean"]
+	path = protean
+	url = https://github.com/maialab/protean
+[submodule "quincunx"]
+	path = quincunx
+	url = https://github.com/maialab/quincunx
+[submodule "wig"]
+	path = wig
+	url = https://github.com/ramiromagno/wig
